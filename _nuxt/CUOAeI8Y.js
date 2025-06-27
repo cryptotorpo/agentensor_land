@@ -1,1 +1,0 @@
-import{Y as n}from"./DDzgPN7n.js";import{_ as s,o as t,f as a,g as c,r,z as _,F as d}from"./CyvS0nY1.js";const l={},m={class:"blurView"};function i(e,f){const o=n;return t(),a(d,null,[c("div",m,[r(e.$slots,"default",{},void 0,!0)]),_(o,{class:"comingSoonBtn w-[140px] h-[46px]",label:"Coming soon"})],64)}const x=s(l,[["render",i],["__scopeId","data-v-0de56910"]]);export{x as _};
